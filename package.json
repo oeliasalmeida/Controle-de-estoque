@@ -21,3 +21,10 @@
     "postcss": "^8.0.0"
   }
 }
+{
+  "homepage": ".",
+  "scripts": {
+    "build": "vite build"
+  }
+}
+

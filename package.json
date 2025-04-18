@@ -1,6 +1,6 @@
 
 {
-  "name": "estoque-limpeza-taste-2025-v2",
+  "name": "estoque-limpeza-taste-2025",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
